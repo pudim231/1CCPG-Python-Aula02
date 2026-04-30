@@ -25,3 +25,4 @@ notaB = validar_nota(notaB)
 
 media = (notaA + notaB) / 2
 print("a média é", media)
+
