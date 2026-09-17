@@ -5,5 +5,14 @@
     "company": "FIAP",
     "step": "novo",
     "created": "2026-09-10"
+  },
+  {
+    "name": "Joaquina",
+    "email": "j@b.com",
+    "company": "Nike",
+    "step": "novo",
+    "created": "2026-09-10"
   }
+
+
 ]
